@@ -2,4 +2,4 @@
 This website is part of WebDev Bootcamp by Angela YU
 
 
-website link :  https://karthikeyan770.github.io/TinDog/
+website hosted link :  https://karthikeyan770.github.io/TinDog/
